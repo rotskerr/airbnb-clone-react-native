@@ -1,5 +1,6 @@
 # React Native AirBnB Clone with Clerk
-
+DISCLAIMER 
+if you want to watch the program, I ask you to use an IOS device, as the program is poorly optimized for android (my fault)
 This is a React Native AirBnB clone using [Clerk](https://clerk.com/) for user authentication.
 
 Additional features:
